@@ -1,4 +1,4 @@
-# Bioinfo-websites_collection
+# Bioinfo-websites collection
 
 A collection Bioinformatics resources : Tutorials, Notes etc...
 
